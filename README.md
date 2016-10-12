@@ -10,13 +10,28 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Description of your Plugin
+Contrôle des ampoules Mi-Light
 
 ## Usage
 ```
-You: example of how to trigger the command
-Jarvis: output from Jarvis
+Vous: Allume la lumière bleue Jarvis: La lumière bleue est allumé
 ```
+##Commandes 
+
+*LUMIEREBLANCHE* 
+*LUMIEREBLEU* 
+*LUMIEREVIOLETTE* 
+*LUMIEREVERTE* 
+*LUMIEREJAUNE* 
+*LUMIEREORANGE* 
+*LUMIEREROUGE* 
+*LUMIEREROSE* 
+*AUGMENTELUMIERE* 
+*BAISSELUMIERE* 
+*LUMIERENORMALE* 
+*ETEINTLUMIERE* 
+*ALLUMELUMIERE* 
+*AMBIANCEDISCO*
 
 ## Author
-[your name](http://your.website)
+Hamak
