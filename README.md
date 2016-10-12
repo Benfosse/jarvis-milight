@@ -17,7 +17,7 @@ Contrôle des ampoules Mi-Light
 Vous: Allume la lumière bleue Jarvis: La lumière bleue est allumé
 ```
 ##Commandes 
-
+```
 *LUMIEREBLANCHE* 
 *LUMIEREBLEU* 
 *LUMIEREVIOLETTE* 
@@ -32,6 +32,6 @@ Vous: Allume la lumière bleue Jarvis: La lumière bleue est allumé
 *ETEINTLUMIERE* 
 *ALLUMELUMIERE* 
 *AMBIANCEDISCO*
-
+```
 ## Author
 Hamak
